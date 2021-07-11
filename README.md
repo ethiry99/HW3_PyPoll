@@ -44,7 +44,7 @@ The number of votes and percentage by candidate results looked like this:
 
 The coding for this results was completed as such:
 
-# Insert vote count and % by candidate
+[Code to display the results by candidate](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Vote_by_Candidate_display_code.png)
 
 ### Determine the Winning Candidate and Display Name, Vote Count, and % of Total Vote
 
