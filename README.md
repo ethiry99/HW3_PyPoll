@@ -42,7 +42,7 @@ The number of votes and percentage by candidate results looked like this:
 
 ![](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Vote_by_Candidate_output.png)
 
-The coding for this results was completed as such:
+The coding for these results was completed as such:
 
 [Code to display the results by candidate](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Vote_by_Candidate_display_code.png)
 
@@ -67,12 +67,5 @@ This algorithm could be used for any precinct or multiple precincts at the same 
 ### Track Multiple Races Within a Precinct 
 In the program created for this request only a single race was tracked.  It could be expanded to handle multiple races within a precinct.  A mayoral race, at large city council, city attorney, planning department of even for a ballot inititive could all be tracked in a single analysis.  By adding a column to the source data for "electoral_race_name", each precinct could have multiple races tracked.  This would also require some additional coding but the bulk of the program as already been written during this analysis. 
 
-
-
-
+ 
    
-   
-    
-
-
-
