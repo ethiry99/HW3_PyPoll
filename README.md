@@ -4,11 +4,11 @@
 
 ### The purpose of the election audit analysis is to:
 
-    * Count the number of votes cast.
-    * Provide breakdown of votes and percentage of votes for each county in the precinct.
-    * Determine which county had the largest number of votes.
-    * Provide a breakdown of the number of votes and percentage of the total by candidate.
-    * Determine the winning candidate, their vote count, and percentage of the total vote.
+   * Count the number of votes cast.
+   * Provide breakdown of votes and percentage of votes for each county in the precinct.
+   * Determine which county had the largest number of votes.
+   * Provide a breakdown of the number of votes and percentage of the total by candidate.
+   * Determine the winning candidate, their vote count, and percentage of the total vote.
 
 These results will be displayed on the screen and to a text file (election_analysis.txt).
 
@@ -54,7 +54,7 @@ The winning candidate information was determined to be:
 
 These results and display were created by the code as shown below:
 
-# Insert winning cadidate code
+![](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/winner_display_code.png)
 
 ## Election-Audit Summary
 
