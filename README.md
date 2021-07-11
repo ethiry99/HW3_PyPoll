@@ -38,9 +38,9 @@ The county with the largest number of votes was Denver. The code to determine th
 
 ### Breakdown the Number of Votes and the Percentage of Total Votes by Candidate
 
-The number of votes and percentage by candidate resluts looked like this:
+The number of votes and percentage by candidate results looked like this:
 
-# Insert vote count and percent by cantidate
+![](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Vote_by_Candidate_output.png)
 
 The coding for this results was completed as such:
 
