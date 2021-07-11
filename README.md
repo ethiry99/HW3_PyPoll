@@ -18,7 +18,7 @@ These results will be displayed on the screen and to a text file (election_analy
 
 The total number of votes was 369,711. It was calculated using the follow code:
 
-
+[](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Total_Vote_Code.png)
 
 ### Breakdown of Votes and % of Total Votes by County in the Precinct
 
