@@ -24,11 +24,11 @@ The total number of votes was 369,711. It was calculated using the follow code:
 
 The breakdown of votes and percent of the total by county came out like:
 
-# insert outcome by county
 
-The code to determine and print was written like this:
 
-# Insert outcome by county code
+The code to count the votes by county was written like this:
+
+[Code to calculate and display county results.](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Outcome_by_county_code.png)
 
 ### Determine the County with the Largest Number of Votes
 
