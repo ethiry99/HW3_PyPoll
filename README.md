@@ -52,7 +52,7 @@ The winning candidate information was determined to be:
 
 # Insert winning candidate info
 
-This display was created by the code as shown below:
+These results and display were created by the code as shown below:
 
 # Insert winning cadidate code
 
