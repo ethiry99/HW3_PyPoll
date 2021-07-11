@@ -56,8 +56,16 @@ These results and display were created by the code as shown below:
 
 # Insert winning cadidate code
 
+## Election-Audit Summary
 
+Now that this election audit summary has been completed, it may be time to review other ways that it can used to assist in auditing election results.
 
+### Expand to Other Precints
+
+This algorithm could be used for any precint or multiple precincts at the same time.  In order to process multiple precincts the label of which precinct is being counted would need to be included in the data file.  Some additinoal coding would also be required to track results by precint instead of just a single precinct in the audit that was completed here.
+
+### Track Multiple Races Within a Precinct 
+In the program created for this request only a single race was tracked.  It could be expanded to handle multiple races within a precinct.  If a mayoral race, at large city council, city attorney, planning department of even for a ballot inititive.  By adding a column to the source data for "electoral_race_name", each precinct could have multiple races tracked.  This would also require some additional coding but the bulk of the program as already been written during this analysis. 
 
 
 
