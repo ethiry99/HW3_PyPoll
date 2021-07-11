@@ -50,7 +50,7 @@ The coding for this results was completed as such:
 
 The winning candidate information was determined to be:
 
-# Insert winning candidate info
+![](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/winner_output.png)
 
 These results and display were created by the code as shown below:
 
