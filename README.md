@@ -34,7 +34,7 @@ The code to count the votes by county was written like this:
 
 The county with the largest number of votes was Denver. The code to determine the largest turn out looked like:
 
-# Insert lagest turnout code here
+![](https://github.com/ethiry99/HW3_PyPoll/blob/main/Resources/Largest_County_turnout_code.png)
 
 ### Breakdown the Number of Votes and the Percentage of Total Votes by Candidate
 
